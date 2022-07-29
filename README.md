@@ -3,9 +3,8 @@ This is a solution to the Digital Business Card challenge on https://scrimba.com
 ## The Challenge
 • See hover states for all interactive elements on the page <br/>
 • Make a static project by using React.js
-## Project View
+## Project View  <br/>
 
 
-
-https://user-images.githubusercontent.com/97192201/181794317-be22d5e6-b588-47de-b437-a670cb2f83a1.mp4
+https://user-images.githubusercontent.com/97192201/181797593-fc7295e3-d517-4187-9c81-9892db48fa22.mp4
 
